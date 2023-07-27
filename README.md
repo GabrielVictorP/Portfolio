@@ -8,3 +8,5 @@ Sinta-se à vontade para explorar os novos projetos que adicionei, pois eles ref
 
 # Para você testar o projeto, acesse esse link
 https://portfolio-phi-seven-74.vercel.app/
+ou 
+https://gabrielvictorp.github.io/Portfolio/
