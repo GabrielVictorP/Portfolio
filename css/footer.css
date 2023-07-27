@@ -1,0 +1,47 @@
+@import url(style.css);
+
+.footer {
+    width: 100%;
+    /* background-color: var(--borda-color); */
+    background-color: var(--second-bg-color);
+}
+
+.footer-conteiner {
+    max-width: 1500px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.contato {
+    font-size: 15px;
+}
+
+.footer-social-media{
+    font-size: 20px;
+    color: var(--main-color);
+}
+
+.footer-social-media a {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 4rem;
+    height: 4rem;
+    background: var(--borda-color);
+    font-size: 2rem;
+    color: var(--text-color);
+    margin: 3rem 1.5rem 3rem 0;
+    transition: .5s ease;
+}
+
+.footer-social-media a:hover {
+    background: var(--main-color);
+    color: var(--second-bg-color);
+    box-shadow: 0 0 1rem var(--main-color);
+}
+
+.final {
+    margin-top: 20px;
+}
