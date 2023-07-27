@@ -7,4 +7,4 @@ Sinta-se à vontade para explorar os novos projetos que adicionei, pois eles ref
 ![Portfólio](https://github.com/GabrielVictorP/Portfolio/assets/133161909/b06b58a7-9e0c-400c-a8ef-5bb84e6c714a)
 
 # Para você testar o projeto, acesse esse link
-https://portfolio-m8f3rvs9m-gabrielvictorp.vercel.app/
+https://portfolio-phi-seven-74.vercel.app/
