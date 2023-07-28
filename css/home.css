@@ -110,7 +110,7 @@ span {
     box-shadow: 0 0 1rem var(--main-color);
 }
 
-.btn {
+ .btn {
     display: inline-block;
     padding: 1rem 2.8rem;
     background: var(--main-color);
@@ -124,6 +124,7 @@ span {
 }
 
 .btn:hover {
-    box-shadow: none
+    background: var(--bg-botao); 
+    box-shadow: 0 0 1rem green; 
+    color: var(--text-color);
 }
-

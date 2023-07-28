@@ -17,6 +17,7 @@
     --text-color: #fff;
     --main-color: #00AD6F;
     --borda-color: #1f1f1f;
+    --bg-botao: #000000;
 }
 
 html {
@@ -127,26 +128,3 @@ section {
         transition: .5s ease;
     }
 }
-
-/* .home-img {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.home-img img {
-    width: 35vw;
-    animation: floatImage 4s ease-in-out infinite;
-}
-
-@keyframes floatImage {
-    0% {
-        transform: translateY(0);
-    }
-    50% {
-        transform: translateY(-2.4rem);
-    }
-    100% {
-        transform: translateY(0);
-    }
-} */
