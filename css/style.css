@@ -62,6 +62,8 @@ section {
 @media (max-width: 768px) {
     #menu-icon {
         display: block;
+        float: left;
+        margin-right: 50px;
     }
 
     .navbar {
